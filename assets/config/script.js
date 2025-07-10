@@ -45,7 +45,7 @@ function createEnhancedParticles() {
 }
 
 function enhancedNameAnimation() {
-  const text = "AHMAD KURNIAWAN";
+  const text = "OCTO MAHASIGMA";
   const element = document.getElementById("typewriter");
   let i = 0;
 
